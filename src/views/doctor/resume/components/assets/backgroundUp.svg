@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="40px" viewBox="0 0 355 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#16C8EB" offset="0%"></stop>
+            <stop stop-color="#1BACF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#16C8EB" offset="0%"></stop>
+            <stop stop-color="#1BACF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="拜访互动-简历与擅长" transform="translate(-10.000000, -1502.000000)">
+            <g id="Path-3-+-Oval-2-+-Oval-2-Copy-+-Path-2-+-Oval-3-+-Oval-4-Mask" transform="translate(10.000000, 219.000000)">
+                <g id="Group" transform="translate(0.000000, 1283.000000)">
+                    <path d="M0,10.1460801 C15.9676146,6.7954543 38.0924042,6.7954543 66.3743691,10.1460801 C108.797316,15.1720188 152.335105,31.3088435 232.007163,31.3088435 C276.710811,31.3088435 317.708423,22.8725623 355,6 C354.919554,16.3411123 354.839109,26.6822246 354.758663,37.0233369 C354.745845,38.6710349 353.406502,40 351.758754,40 L3,40 C1.34314575,40 1.9661902e-15,38.6568542 0,37 L0,10.1460801 L0,10.1460801 Z" id="Path-3" fill="url(#linearGradient-1)" opacity="0.1"></path>
+                    <path d="M48.1965282,27.8090898 C78.4236572,27.8090898 163.324021,0 229.151358,0 C267.459053,0 309.394845,7.90772762 355,23.7223674 C355,28.1482449 355,32.5741225 355,37 C355,38.6568542 353.656854,40 352,40 L3,40 C1.34314575,40 2.02906125e-16,38.6568542 0,37 L0,23.0765698 L0,23.0765698 C11.9795995,26.2315831 28.0451089,27.8090898 48.1965282,27.8090898 Z" id="Path-2" fill="url(#linearGradient-2)" opacity="0.1"></path>
+                    <polygon id="Triangle" transform="translate(178.000000, 139.500000) scale(1, -1) translate(-178.000000, -139.500000) " points="178 137 183 142 173 142" fill="#252A36"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

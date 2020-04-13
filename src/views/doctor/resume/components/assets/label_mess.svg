@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="26px" viewBox="0 0 80 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>label_mess@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="3.56269216%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3BCBA5" offset="0%"></stop>
+            <stop stop-color="#00C2A2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="拜访互动" transform="translate(-285.000000, -118.000000)">
+            <g id="head" transform="translate(10.000000, 104.000000)">
+                <g id="label_mess" transform="translate(275.000000, 14.000000)">
+                    <path d="M13,0 L80,0 L80,0 L80,13 L80,26 L13,26 C5.82029825,26 8.79259876e-16,20.1797017 0,13 C-8.79259876e-16,5.82029825 5.82029825,1.31888981e-15 13,0 Z" id="Rectangle-7" fill="url(#linearGradient-1)"></path>
+                    <text id="医生信息" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" line-spacing="12" fill="#FFFFFF">
+                        <tspan x="18" y="20">医生信息</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

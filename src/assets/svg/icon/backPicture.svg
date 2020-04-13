@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="140px" viewBox="0 0 375 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>椭圆形 + 椭圆形备份 2 + 椭圆形备份 蒙版</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="128.095355%" id="linearGradient-1">
+            <stop stop-color="#F24209" offset="0%"></stop>
+            <stop stop-color="#EF711A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="375" height="140"></rect>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.08" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="43.7609533%" cy="72.8668317%" fx="43.7609533%" fy="72.8668317%" r="32.7348331%" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.04" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="77.7316236%" y1="71.3540706%" x2="77.7316236%" y2="101.958569%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的积分" transform="translate(0.000000, -63.000000)">
+            <g id="椭圆形-+-椭圆形备份-2-+-椭圆形备份-蒙版" transform="translate(0.000000, 63.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <circle id="椭圆形" fill="url(#radialGradient-4)" mask="url(#mask-3)" cx="256" cy="205" r="170"></circle>
+                <circle id="椭圆形备份-2" fill="url(#radialGradient-5)" mask="url(#mask-3)" cx="340.5" cy="-65.5" r="153.5"></circle>
+                <circle id="椭圆形备份" fill="url(#linearGradient-6)" mask="url(#mask-3)" cx="-22.5" cy="-54.5" r="127.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

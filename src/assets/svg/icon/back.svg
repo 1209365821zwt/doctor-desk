@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="367px" height="160px" viewBox="0 0 367 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>无支持数据支持度和线上潜力底</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,6 L359,6 C360.104569,6 361,6.8954305 361,8 L361,152 C361,153.104569 360.104569,154 359,154 L8,154 C6.8954305,154 6,153.104569 6,152 L6,8 C6,6.8954305 6.8954305,6 8,6 Z" id="path-1"></path>
+        <filter x="-2.5%" y="-6.1%" width="105.1%" height="112.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多记录" transform="translate(-4.000000, -236.000000)">
+            <g id="无支持数据支持度和线上潜力底" transform="translate(4.000000, 236.000000)">
+                <path d="M1,0 L366,0 C366.552285,-1.01453063e-16 367,0.44771525 367,1 L367,159 C367,159.552285 366.552285,160 366,160 L1,160 C0.44771525,160 6.76353751e-17,159.552285 0,159 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-10-Copy-2"></path>
+                <g id="Rectangle-10-Copy-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

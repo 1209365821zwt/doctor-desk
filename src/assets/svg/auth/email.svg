@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="11px" viewBox="0 0 13 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>邮箱</title>
+    <desc>Created with Sketch.</desc>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录页读秒" transform="translate(-64.000000, -328.000000)">
+            <g id="邮箱" transform="translate(62.000000, 325.000000)">
+                <g id="用户名">
+                    <rect id="Rectangle-8" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <g id="youxiang" transform="translate(2.000000, 3.000000)" fill="#E1E8EF" fill-rule="nonzero">
+                        <path d="M1.56,0 L11.44,0 C12.2913839,0 12.9895536,0.624049745 13,1.39198661 L6.50348214,4.11668048 L0.00696428571,1.39522003 C0.0156696429,0.625666454 0.706875,0 1.56,0 Z M0.00696428571,2.37208089 L0,9.05020908 C0,9.82461278 0.701651786,10.4583628 1.56,10.4583628 L11.44,10.4583628 C12.2983482,10.4583628 13,9.82461278 13,9.05020908 L13,2.36884747 L6.68629464,4.91085321 C6.56964286,4.96743803 6.42861607,4.96743803 6.31196429,4.91085321 L0.00696428571,2.37208089 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

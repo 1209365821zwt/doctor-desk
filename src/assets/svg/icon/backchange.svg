@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="44px" viewBox="0 0 320 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Rectangle 3 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50.6033155%" x2="100%" y2="49.3321148%" id="linearGradient-1">
+            <stop stop-color="#08ACF4" offset="0%"></stop>
+            <stop stop-color="#009FDA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="兑换详情" transform="translate(-28.000000, -583.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(28.000000, 583.000000)">
+                <path d="M4,0 L316,0 C318.209139,-4.05812251e-16 320,1.790861 320,4 L320,40 C320,42.209139 318.209139,44 316,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-3-Copy-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

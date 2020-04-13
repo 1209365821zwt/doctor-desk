@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon_back@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="hcp360-墨克" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多记录" transform="translate(-10.000000, -33.000000)" fill="#18181C" fill-rule="nonzero">
+            <g id="top2">
+                <g id="top">
+                    <g>
+                        <g id="Group-8">
+                            <g id="icon_back" transform="translate(10.000000, 33.000000)">
+                                <path d="M2.11982887,9 L9.80111715,1.38676691 C10.0662943,1.12361878 10.0662943,0.697697332 9.80111715,0.435041311 L9.56114587,0.196992001 C9.2954943,-0.0656640002 8.86602532,-0.0656640002 8.60082755,0.196992001 L0.198511574,8.52389883 C-0.0661705246,8.78702645 -0.0661705246,9.21298892 0.198511574,9.47611655 L8.60082755,17.8030234 C8.86600468,18.0656589 9.29646377,18.0656589 9.56114587,17.8030234 L9.80111715,17.5649741 C10.0662943,17.3023181 10.0662943,16.8763966 9.80111715,16.6127563 L2.11982887,9 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
